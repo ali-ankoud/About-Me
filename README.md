@@ -10,10 +10,10 @@ Interested in working internships in-person or virtually in the stem field.
 
 I am open to start-ups, paid/unpaid internships, etc. to build and diversify my stem field experience!
 
-School : University of Washington
+// School : University of Washington
 
-Degree : Electrical Engineering
+// Degree : Electrical Engineering
 
-Expected Graduation Year : 2023
+// Expected Graduation Year : 2023
 
 
